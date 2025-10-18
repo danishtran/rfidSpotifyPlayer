@@ -15,11 +15,11 @@ This project lets you scan an RFID tag with a reader connected to a Raspberry Pi
 - Raspberry Pi with network access
 - Python 3.x installed
 - RFID reader supported by your Pi
+- Raspotify installed
 - Spotify Developer account and app
 - Internet access on the Pi
 
 Python packages you will need:
-- spotipy (or similar Spotify API library)
 - python-dotenv
 - requests
 - RPi.GPIO
